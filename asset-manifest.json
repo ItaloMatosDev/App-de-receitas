@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/App-de-receitas/static/css/main.3571927e.chunk.css",
+    "main.js": "/App-de-receitas/static/js/main.f04ffc99.chunk.js",
+    "main.js.map": "/App-de-receitas/static/js/main.f04ffc99.chunk.js.map",
+    "runtime-main.js": "/App-de-receitas/static/js/runtime-main.81debe0a.js",
+    "runtime-main.js.map": "/App-de-receitas/static/js/runtime-main.81debe0a.js.map",
+    "static/js/2.b2fab287.chunk.js": "/App-de-receitas/static/js/2.b2fab287.chunk.js",
+    "static/js/2.b2fab287.chunk.js.map": "/App-de-receitas/static/js/2.b2fab287.chunk.js.map",
+    "index.html": "/App-de-receitas/index.html",
+    "precache-manifest.08788e09ec0ba8bbbe6d2a93803d1f6f.js": "/App-de-receitas/precache-manifest.08788e09ec0ba8bbbe6d2a93803d1f6f.js",
+    "service-worker.js": "/App-de-receitas/service-worker.js",
+    "static/css/main.3571927e.chunk.css.map": "/App-de-receitas/static/css/main.3571927e.chunk.css.map",
+    "static/js/2.b2fab287.chunk.js.LICENSE.txt": "/App-de-receitas/static/js/2.b2fab287.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/App-de-receitas/static/media/Poppins-ExtraLight.86a2f13e.ttf",
+    "static/media/explore.css": "/App-de-receitas/static/media/mealsExplore.d12c22aa.jpeg",
+    "static/media/mealsExplore.css": "/App-de-receitas/static/media/world.0c0cd5e2.jpg",
+    "static/media/profile-image.jpg": "/App-de-receitas/static/media/profile-image.1f5edec9.jpg",
+    "static/media/profileIcon.svg": "/App-de-receitas/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/App-de-receitas/static/media/searchIcon.db812135.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81debe0a.js",
+    "static/js/2.b2fab287.chunk.js",
+    "static/css/main.3571927e.chunk.css",
+    "static/js/main.f04ffc99.chunk.js"
+  ]
+}
